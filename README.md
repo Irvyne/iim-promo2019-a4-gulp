@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Gulp is 
+Gulp is  `gulp -v`
 
 ## Goal
 
